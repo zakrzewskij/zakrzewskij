@@ -32,10 +32,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/zakrzewskij/zakrzewskij/output/snake.svg" alt="Snake animation" />
-
-###
+![snake gif](https://github.com/zakrzewskij/zakrzewskij/blob/output/github-contribution-grid-snake.gif)
