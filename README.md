@@ -1,4 +1,4 @@
-<h3>CloudSkills.STG_CloudServices</h3>
+<h4>CloudSkills.STG_CloudServices</h4>
 <table>
     <tr>
         <th>CLOUD_ID (PK)</th>
@@ -12,7 +12,7 @@
     </tr>
 </table>
 
-<h3>ScriptingSkills.STG_ScriptingLanguages</h3>
+<h4>ScriptingSkills.STG_ScriptingLanguages</h4>
 <table>
     <tr>
         <th>SCRIPTING_ID (PK)</th>
@@ -31,7 +31,7 @@
     </tr>
 </table>
 
-<h3>VersionControlSkills.STG_VersionControlTools</h3>
+<h4>VersionControlSkills.STG_VersionControlTools</h4>
 <table>
     <tr>
         <th>VC_ID (PK)</th>
@@ -55,7 +55,7 @@
     </tr>
 </table>
 
-<h3>ProgrammingSkills.STG_ProgrammingLanguages</h3>
+<h4>ProgrammingSkills.STG_ProgrammingLanguages</h4>
 <table>
     <tr>
         <th>PROGRAMMING_ID (PK)</th>
@@ -84,7 +84,7 @@
     </tr>
 </table>
 
-<h3>DatabaseSkills.STG_DatabaseSystems</h3>
+<h4>DatabaseSkills.STG_DatabaseSystems</h4>
 <table>
     <tr>
         <th>DB_ID (PK)</th>
@@ -108,7 +108,7 @@
     </tr>
 </table>
 
-<h3>CollaborationSkills.STG_CollaborationTools</h3>
+<h4>CollaborationSkills.STG_CollaborationTools</h4>
 <table>
     <tr>
         <th>COLLAB_ID (PK)</th>
@@ -127,7 +127,7 @@
     </tr>
 </table>
 
-<h3>DevToolsSkills.STG_DevelopmentToolsList</h3>
+<h4>DevToolsSkills.STG_DevelopmentToolsList</h4>
 <table>
     <tr>
         <th>DEVTOOLS_ID (PK)</th>
@@ -150,3 +150,8 @@
         <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm"></td>
     </tr>
 </table>
+
+<h4 align="center">Connect with me:</h4>
+<p align="center">
+  <a href="https://www.linkedin.com/in/jak-ub-zak/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
