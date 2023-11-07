@@ -6,9 +6,9 @@
         <th>ICON</th>
     </tr>
     <tr>
-        <td>1</td>
-        <td>Azure</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=azure" alt="Azure"></td>
+        <td align="center">1</td>
+        <td align="center">Azure</td>
+        <td align="center"><img height="40" src="https://skillicons.dev/icons?i=azure" alt="Azure"></td>
     </tr>
 </table>
 
@@ -20,14 +20,14 @@
         <th>ICON</th>
     </tr>
     <tr>
-        <td>1</td>
-        <td>Bash</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=bash" alt="Bash"></td>
+        <td align="center">1</td>
+        <td align="center">Bash</td>
+        <td align="center"><img height="40" src="https://skillicons.dev/icons?i=bash" alt="Bash"></td>
     </tr>
     <tr>
-        <td>2</td>
-        <td>PowerShell</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=powershell" alt="PowerShell"></td>
+        <td align="center">2</td>
+        <td align="center">PowerShell</td>
+        <td align="center"><img height="40" src="https://skillicons.dev/icons?i=powershell" alt="PowerShell"></td>
     </tr>
 </table>
 
@@ -39,14 +39,14 @@
         <th>ICON</th>
     </tr>
     <tr>
-        <td>1</td>
-        <td>Git</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git" alt="Git"></td>
+        <td align="center">1</td>
+        <td align="center">Git</td>
+        <td align="center"><img height="40" src="https://skillicons.dev/icons?i=git" alt="Git"></td>
     </tr>
     <tr>
-        <td>2</td>
-        <td>Subversion</td>
-        <td><img height="40" src="https://devicon-website.vercel.app/api/subversion/original.svg" alt="Subversion"></td>
+        <td align="center">2</td>
+        <td align="center">Subversion</td>
+        <td align="center"><img height="40" src="https://devicon-website.vercel.app/api/subversion/original.svg" alt="Subversion"></td>
     </tr>
 </table>
 
@@ -58,19 +58,19 @@
         <th>ICON</th>
     </tr>
     <tr>
-        <td>1</td>
-        <td>Python</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=python" alt="Python"></td>
+        <td align="center">1</td>
+        <td align="center">Python</td>
+        <td align="center"><img height="40" src="https://skillicons.dev/icons?i=python" alt="Python"></td>
     </tr>
     <tr>
-        <td>2</td>
-        <td>R</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=r" alt="R"></td>
+        <td align="center">2</td>
+        <td align="center">R</td>
+        <td align="center"><img height="40" src="https://skillicons.dev/icons?i=r" alt="R"></td>
     </tr>
     <tr>
-        <td>3</td>
-        <td>LaTeX</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=latex" alt="LaTeX"></td>
+        <td align="center">3</td>
+        <td align="center">LaTeX</td>
+        <td align="center"><img height="40" src="https://skillicons.dev/icons?i=latex" alt="LaTeX"></td>
     </tr>
 </table>
 
@@ -82,19 +82,19 @@
         <th>ICON</th>
     </tr>
     <tr>
-        <td>1</td>
-        <td>Oracle</td>
-        <td><img height="40" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle"></td>
+        <td align="center">1</td>
+        <td align="center">Oracle</td>
+        <td align="center"><img height="40" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle"></td>
     </tr>
     <tr>
-        <td>2</td>
-        <td>SQLite</td>
-        <td><img height="40" src="https://devicon-website.vercel.app/api/sqlite/original.svg" alt="SQLite"></td>
+        <td align="center">2</td>
+        <td align="center">SQLite</td>
+        <td align="center"><img height="40" src="https://devicon-website.vercel.app/api/sqlite/original.svg" alt="SQLite"></td>
     </tr>
     <tr>
-        <td>3</td>
-        <td>MSQL Server</td>
-        <td><img height="40" src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%23FF0000" alt="Microsoft SQL Server"></td>
+        <td align="center">3</td>
+        <td align="center">MSQL Server</td>
+        <td align="center"><img height="40" src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%23FF0000" alt="Microsoft SQL Server"></td>
     </tr>
 </table>
 
@@ -106,14 +106,14 @@
         <th>ICON</th>
     </tr>
     <tr>
-        <td>1</td>
-        <td>Confluence</td>
-        <td><img height="40" src="https://devicon-website.vercel.app/api/confluence/original.svg" alt="Confluence"></td>
+        <td align="center">1</td>
+        <td align="center">Confluence</td>
+        <td align="center"><img height="40" src="https://devicon-website.vercel.app/api/confluence/original.svg" alt="Confluence"></td>
     </tr>
     <tr>
-        <td>2</td>
-        <td>Jira</td>
-        <td><img height="40" src="https://devicon-website.vercel.app/api/jira/original.svg" alt="Jira"></td>
+        <td align="center">2</td>
+        <td align="center">Jira</td>
+        <td align="center"><img height="40" src="https://devicon-website.vercel.app/api/jira/original.svg" alt="Jira"></td>
     </tr>
 </table>
 
@@ -125,19 +125,19 @@
         <th>ICON</th>
     </tr>
     <tr>
-        <td>1</td>
-        <td>VSCode</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vscode" alt="VSCode"></td>
+        <td align="center">1</td>
+        <td align="center">VSCode</td>
+        <td align="center"><img height="40" src="https://skillicons.dev/icons?i=vscode" alt="VSCode"></td>
     </tr>
     <tr>
-        <td>2</td>
-        <td>RStudio</td>
-        <td><img height="40" src="https://devicon-website.vercel.app/api/rstudio/original.svg" alt="RStudio"></td>
+        <td align="center">2</td>
+        <td align="center">RStudio</td>
+        <td align="center"><img height="40" src="https://devicon-website.vercel.app/api/rstudio/original.svg" alt="RStudio"></td>
     </tr>
     <tr>
-        <td>3</td>
-        <td>PyCharm</td>
-        <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm"></td>
+        <td align="center">3</td>
+        <td align="center">PyCharm</td>
+        <td align="center"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm"></td>
     </tr>
 </table>
 
