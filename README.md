@@ -1,45 +1,180 @@
-### Cloud
-| CLOUD_ID (PK) | CLOUD_NAME       | ICON_URL                                       |
-|---------------|------------------|------------------------------------------------|
-| 1             | Azure            | <img height="40" src="https://skillicons.dev/icons?i=azure" alt="Azure"> |
 
-### Scripting
-| SCRIPTING_ID (PK) | SCRIPTING_NAME   | ICON_URL                                          |
-|-------------------|------------------|---------------------------------------------------|
-| 1                 | Bash             | <img height="40" src="https://skillicons.dev/icons?i=bash" alt="Bash"> |
-| 2                 | PowerShell       | <img height="40" src="https://skillicons.dev/icons?i=powershell" alt="PowerShell"> |
 
-### VersionControl
-| VC_ID (PK) | VC_NAME       | ICON_URL                                              |
-|------------|---------------|-------------------------------------------------------|
-| 1          | Git           | <img height="40" src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub"> |
-| 2          | TortoiseGit    | <img height="40" src="https://devicon-website.vercel.app/api/tortoisegit/original.svg" alt="TortoiseGit"> |
-| 3          | Subversion     | <img height="40" src="https://devicon-website.vercel.app/api/subversion/original.svg" alt="Subversion"> |
+<h3>Cloud</h3>
+<table>
+    <tr>
+        <th>CLOUD_ID (PK)</th>
+        <th>CLOUD_NAME</th>
+        <th>ICON_URL</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Azure</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=azure" alt="Azure"></td>
+    </tr>
+</table>
 
-### Programming
-| PROGRAMMING_ID (PK) | PROGRAMMING_NAME | ICON_URL                                               |
-|--------------------|-------------------|--------------------------------------------------------|
-| 1                  | Python            | <img height="40" src="https://skillicons.dev/icons?i=python" alt="Python"> |
-| 2                  | R                 | <img height="40" src="https://skillicons.dev/icons?i=r" alt="R"> |
-| 3                  | LaTeX             | <img height="40" src="https://skillicons.dev/icons?i=latex" alt="LaTeX"> |
-| 4                  | Markdown          | <img height="40" src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23FFFFFF" alt="Markdown"> |
+<h3>Scripting</h3>
+<table>
+    <tr>
+        <th>SCRIPTING_ID (PK)</th>
+        <th>SCRIPTING_NAME</th>
+        <th>ICON_URL</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Bash</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=bash" alt="Bash"></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>PowerShell</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=powershell" alt="PowerShell"></td>
+    </tr>
+</table>
 
-### Database
-| DB_ID (PK) | DB_NAME              | ICON_URL                                                   |
-|------------|----------------------|------------------------------------------------------------|
-| 1          | Oracle               | <img height="40" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle"> |
-| 2          | SQLite               | <img height="40" src="https://devicon-website.vercel.app/api/sqlite/original.svg" alt="SQLite"> |
-| 3          | Microsoft SQL Server | <img height="40" src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%23FF0000" alt="Microsoft SQL Server"> |
+<h3>VersionControl</h3>
+<table>
+    <tr>
+        <th>VC_ID (PK)</th>
+        <th>VC_NAME</th>
+        <th>ICON_URL</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Git</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub"></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>TortoiseGit</td>
+        <td><img height="40" src="https://devicon-website.vercel.app/api/tortoisegit/original.svg" alt="TortoiseGit"></td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Subversion</td>
+        <td><img height="40" src="https://devicon-website.vercel.app/api/subversion/original.svg" alt="Subversion"></td>
+    </tr>
+</table>
 
-### Collaboration
-| COLLAB_ID (PK) | COLLAB_NAME  | ICON_URL                                                   |
-|----------------|--------------|------------------------------------------------------------|
-| 1              | Confluence   | <img height="40" src="https://devicon-website.vercel.app/api/confluence/original.svg" alt="Confluence"> |
-| 2              | Jira         | <img height="40" src="https://devicon-website.vercel.app/api/jira/original.svg" alt="Jira"> |
+<h3>Programming</h3>
+<table>
+    <tr>
+        <th>PROGRAMMING_ID (PK)</th>
+        <th>PROGRAMMING_NAME</th>
+        <th>ICON_URL</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Python</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=python" alt="Python"></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>R</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=r" alt="R"></td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>LaTeX</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=latex" alt="LaTeX"></td>
+    </tr>
+    <tr>
+        <td>4</td>
+        <td>Markdown</td>
+        <td><img height="40" src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23FFFFFF" alt="Markdown"></td>
+    </tr>
+</table>
 
-### DevelopmentTools
-| DEVTOOLS_ID (PK) | DEVTOOLS_NAME | ICON_URL                                                  | PROGRAMMING_ID (FK) | DB_ID (FK) | COLLAB_ID (FK) | CLOUD_ID (FK) | SCRIPTING_ID (FK) | VC_ID (FK) |
-|------------------|---------------|-----------------------------------------------------------|---------------------|------------|----------------|---------------|-------------------|------------|
-| 1                | VSCode         | <img height="40" src="https://skillicons.dev/icons?i=vscode" alt="VSCode"> | 1                   | 2          | 1              | 1             | 1                 | 1          |
-| 2                | RStudio        | <img height="40" src="https://devicon-website.vercel.app/api/rstudio/original.svg" alt="RStudio"> | 2                   | 2          | 1              |               | 2                 |            |
-| 3                | PyCharm        | <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm"> | 1                   | 3          | 2              |               | 3                 | 2          |
+<h3>Database</h3>
+<table>
+    <tr>
+        <th>DB_ID (PK)</th>
+        <th>DB_NAME</th>
+        <th>ICON_URL</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Oracle</td>
+        <td><img height="40" src="https://user-images.githubusercontent.com/25181517/117208736-bdedc080-adf5-11eb-912f-61c7d43705f6.png" alt="Oracle"></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>SQLite</td>
+        <td><img height="40" src="https://devicon-website.vercel.app/api/sqlite/original.svg" alt="SQLite"></td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>Microsoft SQL Server</td>
+        <td><img height="40" src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%23FF0000" alt="Microsoft SQL Server"></td>
+    </tr>
+</table>
+
+<h3>Collaboration</h3>
+<table>
+    <tr>
+        <th>COLLAB_ID (PK)</th>
+        <th>COLLAB_NAME</th>
+        <th>ICON_URL</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Confluence</td>
+        <td><img height="40" src="https://devicon-website.vercel.app/api/confluence/original.svg" alt="Confluence"></td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Jira</td>
+        <td><img height="40" src="https://devicon-website.vercel.app/api/jira/original.svg" alt="Jira"></td>
+    </tr>
+</table>
+
+<h3>DevelopmentTools</h3>
+<table>
+    <tr>
+        <th>DEVTOOLS_ID (PK)</th>
+        <th>DEVTOOLS_NAME</th>
+        <th>ICON_URL</th>
+        <th>PROGRAMMING_ID (FK)</th>
+        <th>DB_ID (FK)</th>
+        <th>COLLAB_ID (FK)</th>
+        <th>CLOUD_ID (FK)</th>
+        <th>SCRIPTING_ID (FK)</th>
+        <th>VC_ID (FK)</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>VSCode</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vscode" alt="VSCode"></td>
+        <td>1</td>
+        <td>2</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+        <td>1</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>RStudio</td>
+        <td><img height="40" src="https://devicon-website.vercel.app/api/rstudio/original.svg" alt="RStudio"></td>
+        <td>2</td>
+        <td>2</td>
+        <td>1</td>
+        <td></td>
+        <td>2</td>
+        <td></td>
+    </tr>
+    <tr>
+        <td>3</td>
+        <td>PyCharm</td>
+        <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm"></td>
+        <td>1</td>
+        <td>3</td>
+        <td>2</td>
+        <td></td>
+        <td>3</td>
+        <td>2</td>
+    </tr>
+</table>
+
+
