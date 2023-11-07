@@ -41,15 +41,10 @@
     <tr>
         <td>1</td>
         <td>Git</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub"></td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git" alt="Git"></td>
     </tr>
     <tr>
         <td>2</td>
-        <td>TortoiseGit</td>
-        <td><img height="40" src="https://devicon-website.vercel.app/api/tortoisegit/original.svg" alt="TortoiseGit"></td>
-    </tr>
-    <tr>
-        <td>3</td>
         <td>Subversion</td>
         <td><img height="40" src="https://devicon-website.vercel.app/api/subversion/original.svg" alt="Subversion"></td>
     </tr>
@@ -76,11 +71,6 @@
         <td>3</td>
         <td>LaTeX</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=latex" alt="LaTeX"></td>
-    </tr>
-    <tr>
-        <td>4</td>
-        <td>Markdown</td>
-        <td><img height="40" src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23FFFFFF" alt="Markdown"></td>
     </tr>
 </table>
 
