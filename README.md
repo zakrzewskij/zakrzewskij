@@ -2,32 +2,31 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="30" alt="r logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="30" alt="microsoftsqlserver logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="30" alt="powershell logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="30" alt="confluence logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=latex" height="30" alt="latex logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+<img height=50 src="https://devicon-website.vercel.app/api/rstudio/original.svg"></img>
+<img height=50 src="https://devicon-website.vercel.app/api/azure/original.svg"></img>
+<img height=50 src="https://devicon-website.vercel.app/api/bash/original.svg"></img>
+<img height=50 src="https://devicon-website.vercel.app/api/confluence/original.svg"></img>
+<img height=50  src="https://devicon-website.vercel.app/api/git/original.svg"></img>
+<img height=50 src="https://devicon-website.vercel.app/api/jira/original.svg"></img>
+<img height=50 src="https://devicon-website.vercel.app/api/latex/original.svg"></img>
+<img  height=50 src="https://devicon-website.vercel.app/api/linux/original.svg"></img>
+<img height=50 src="https://devicon-website.vercel.app/api/markdown/original.svg?color=%23FFFFFF"></img>
+<img height=50 src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%23FF0000"></img>
+<img height=50 src="https://devicon-website.vercel.app/api/oracle/original.svg"></img>
+<img height=50 src="https://devicon-website.vercel.app/api/python/original.svg"></img>
+<img height=50 src="https://devicon-website.vercel.app/api/r/original.svg"></img>
+<img height=50 src="https://devicon-website.vercel.app/api/sqlite/original.svg"></img>
+<img  height=50 src="https://devicon-website.vercel.app/api/subversion/original.svg"></img>
+<img height=50  src="https://devicon-website.vercel.app/api/tortoisegit/original.svg"></img>
+<img height=50 src="https://devicon-website.vercel.app/api/ubuntu/plain.svg"></img>
+<img height=50 src="https://devicon-website.vercel.app/api/vscode/original.svg"></img>
+<img height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" />
 </div>
+<p align="center">
+
+<p align="center">
+  <a href="https://skillicons.dev">
+     <img src="https://skillicons.dev/icons?i=azure,bash,git,github,latex,linux,powershell,py,r,sqlite,vscode" />
+  </a>
+</p>
 
