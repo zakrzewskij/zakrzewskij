@@ -15,8 +15,8 @@
 <h4>ScriptingSkills.STG_ScriptingLanguages</h4>
 <table>
     <tr>
-        <th>SCRIPTING_ID (PK)</th>
-        <th>SCRIPTING_NAME</th>
+        <th>SCRPT_ID (PK)</th>
+        <th>SCRPT_NAME</th>
         <th>ICON</th>
     </tr>
     <tr>
@@ -58,8 +58,8 @@
 <h4>ProgrammingSkills.STG_ProgrammingLanguages</h4>
 <table>
     <tr>
-        <th>PROGRAMMING_ID (PK)</th>
-        <th>PROGRAMMING_NAME</th>
+        <th>PROG_ID (PK)</th>
+        <th>PROG_NAME</th>
         <th>ICON</th>
     </tr>
     <tr>
@@ -130,8 +130,8 @@
 <h4>DevToolsSkills.STG_DevelopmentToolsList</h4>
 <table>
     <tr>
-        <th>DEVTOOLS_ID (PK)</th>
-        <th>DEVTOOLS_NAME</th>
+        <th>DEVT_ID (PK)</th>
+        <th>DEVT_NAME</th>
         <th>ICON</th>
     </tr>
     <tr>
