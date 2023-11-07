@@ -1,11 +1,9 @@
-
-
-<h3>Cloud</h3>
+<h3>CloudSkills.STG_CloudServices</h3>
 <table>
     <tr>
         <th>CLOUD_ID (PK)</th>
         <th>CLOUD_NAME</th>
-        <th>ICON_URL</th>
+        <th>ICON</th>
     </tr>
     <tr>
         <td>1</td>
@@ -14,12 +12,12 @@
     </tr>
 </table>
 
-<h3>Scripting</h3>
+<h3>ScriptingSkills.STG_ScriptingLanguages</h3>
 <table>
     <tr>
         <th>SCRIPTING_ID (PK)</th>
         <th>SCRIPTING_NAME</th>
-        <th>ICON_URL</th>
+        <th>ICON</th>
     </tr>
     <tr>
         <td>1</td>
@@ -33,12 +31,12 @@
     </tr>
 </table>
 
-<h3>VersionControl</h3>
+<h3>VersionControlSkills.STG_VersionControlTools</h3>
 <table>
     <tr>
         <th>VC_ID (PK)</th>
         <th>VC_NAME</th>
-        <th>ICON_URL</th>
+        <th>ICON</th>
     </tr>
     <tr>
         <td>1</td>
@@ -57,12 +55,12 @@
     </tr>
 </table>
 
-<h3>Programming</h3>
+<h3>ProgrammingSkills.STG_ProgrammingLanguages</h3>
 <table>
     <tr>
         <th>PROGRAMMING_ID (PK)</th>
         <th>PROGRAMMING_NAME</th>
-        <th>ICON_URL</th>
+        <th>ICON</th>
     </tr>
     <tr>
         <td>1</td>
@@ -86,12 +84,12 @@
     </tr>
 </table>
 
-<h3>Database</h3>
+<h3>DatabaseSkills.STG_DatabaseSystems</h3>
 <table>
     <tr>
         <th>DB_ID (PK)</th>
         <th>DB_NAME</th>
-        <th>ICON_URL</th>
+        <th>ICON</th>
     </tr>
     <tr>
         <td>1</td>
@@ -105,17 +103,17 @@
     </tr>
     <tr>
         <td>3</td>
-        <td>Microsoft SQL Server</td>
+        <td>MSQL Server</td>
         <td><img height="40" src="https://devicon-website.vercel.app/api/microsoftsqlserver/plain-wordmark.svg?color=%23FF0000" alt="Microsoft SQL Server"></td>
     </tr>
 </table>
 
-<h3>Collaboration</h3>
+<h3>CollaborationSkills.STG_CollaborationTools</h3>
 <table>
     <tr>
         <th>COLLAB_ID (PK)</th>
         <th>COLLAB_NAME</th>
-        <th>ICON_URL</th>
+        <th>ICON</th>
     </tr>
     <tr>
         <td>1</td>
@@ -129,52 +127,26 @@
     </tr>
 </table>
 
-<h3>DevelopmentTools</h3>
+<h3>DevToolsSkills.STG_DevelopmentToolsList</h3>
 <table>
     <tr>
         <th>DEVTOOLS_ID (PK)</th>
         <th>DEVTOOLS_NAME</th>
-        <th>ICON_URL</th>
-        <th>PROGRAMMING_ID (FK)</th>
-        <th>DB_ID (FK)</th>
-        <th>COLLAB_ID (FK)</th>
-        <th>CLOUD_ID (FK)</th>
-        <th>SCRIPTING_ID (FK)</th>
-        <th>VC_ID (FK)</th>
+        <th>ICON</th>
     </tr>
     <tr>
         <td>1</td>
         <td>VSCode</td>
         <td><img height="40" src="https://skillicons.dev/icons?i=vscode" alt="VSCode"></td>
-        <td>1</td>
-        <td>2</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
-        <td>1</td>
     </tr>
     <tr>
         <td>2</td>
         <td>RStudio</td>
         <td><img height="40" src="https://devicon-website.vercel.app/api/rstudio/original.svg" alt="RStudio"></td>
-        <td>2</td>
-        <td>2</td>
-        <td>1</td>
-        <td></td>
-        <td>2</td>
-        <td></td>
     </tr>
     <tr>
         <td>3</td>
         <td>PyCharm</td>
         <td><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" alt="PyCharm"></td>
-        <td>1</td>
-        <td>3</td>
-        <td>2</td>
-        <td></td>
-        <td>3</td>
-        <td>2</td>
     </tr>
 </table>
-
-
