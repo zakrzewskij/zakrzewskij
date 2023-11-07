@@ -1,4 +1,4 @@
-name: generate animation
+name: Snake animation
 
 on:
   # run automatically every 24 hours
@@ -20,7 +20,7 @@ jobs:
     permissions: 
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 1
+    timeout-minutes: 5
     
     steps:
       # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
@@ -29,9 +29,8 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
           
           
       # push the content of <build_dir> to a branch
