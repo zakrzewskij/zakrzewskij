@@ -141,9 +141,10 @@
     </tr>
 </table>
 
+
+![Snake animation](https://github.com/zakrzewskij/zakrzewskij/blob/output/github-contribution-grid-snake.svg)
+
 <h4 align="center">Connect with me:</h4>
 <p align="center">
   <a href="https://www.linkedin.com/in/jak-ub-zak/" target="_blank"><img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
-
-![Snake animation](https://github.com/zakrzewskij/zakrzewskij/blob/output/github-contribution-grid-snake.svg)
